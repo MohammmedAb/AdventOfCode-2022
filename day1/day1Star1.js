@@ -1,4 +1,3 @@
-//read text file
 var fs = require('fs');
 
 var sum = 0;
